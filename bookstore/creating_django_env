@@ -1,0 +1,42 @@
+mkvirtualenv bookstore-django
+
+# Change to the directory of newly  created virtualenv
+cd Desktop/Python_Django/bookstore
+
+# 'manage.py' file is pre-created with the django environment
+./manage.py migrate
+
+# Test the connection of the django server
+./manager.py runserver
+
+# Create another file folder, which creates a sub-app folder in the initial django project
+./manage.py startapp store
+
+# Create your views in the views.py file
+
+
+    # Examples:
+    re_path(r'^$', views.index, name='index'),
+
+# Re-enter your virtualenv
+ozzycodes@ozzycodes-ML-LIQUID:~/.virtualenvs$
+ozzycodes@ozzycodes-ML-LIQUID:~/.virtualenvs$ cd bookstore-django
+ozzycodes@ozzycodes-ML-LIQUID:~/.virtualenvs/bookstore-django$ source bin/activate
+
+
+# Create a model under to store created folder (model file pre-created - just fill in info for the model)
+# In setting.py file under the initially created django project:
+    - Create a DATABASES entry
+    - Allows you to push all information into a database for usage on a web app
+
+    --$ ./manage.py makemigrations store --> This creates (0001_initial.py)
+    ################
+    --$ ./manage.py sqlmigrate store 0001  --> Commits into to the sql database
+    ################
+    --$ ./manage.py migrate  --> This will migrate key values and create a table in database
+
+# Create a super-user for the project:
+    --$ ./manage.py createsuperuser (follow script)
+
+# Go to the 'admin.py' pre-created file in the app:
+    - Edit the settings to include the model you've created
