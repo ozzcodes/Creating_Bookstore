@@ -118,3 +118,13 @@ STATIC_URL = '/static/'
 # Registration
 ACCOUNT_ACTIVATION_DAYS = 7
 REGISTRATION_AUTO_LOGIN = True
+LOGIN_REDIRECT_URL = "/store/"
+
+# Email Settings
+EMAIL_BACKEND = "django.core.mail.backend.smtp.EmailBackend"
+EMAIL_HOST = "smtp.gmail.com"
+EMAIL_HOST_USER = "ajwaldro@gmail.com"
+EMAIL_HOST_PASSWORD = "OzzMan0212181!"
+EMAIL_PORT = 587
+EMAIL_USE_TLS = True
+DEFAULT_FROM_EMAIL = "mybooks@ozzycodesbooks.com"
