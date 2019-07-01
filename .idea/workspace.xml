@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3e99655-2390-4dfb-b7ff-09ab956e6e2e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Creating_Bookstore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Creating_Bookstore.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/google-java-format.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/google-java-format.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/bookstore/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/bookstore/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/bookstore/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/bookstore/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/bookstore/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/bookstore/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/creating_django_env" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/creating_django_env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/manage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/requirements.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/store/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/store/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/store/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/store/apps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/store/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/store/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/store/migrations/0002_auto_20190304_0304.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/store/migrations/0002_auto_20190304_0304.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/store/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/store/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/store/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/store/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/store/templates/registration/activate.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/store/templates/registration/activate.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/store/templates/registration/activation_complete.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/store/templates/registration/activation_complete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/store/templates/registration/activation_email.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/store/templates/registration/activation_email.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/store/templates/registration/registration_complete.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/store/templates/registration/registration_complete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/store/templates/registration/registration_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/store/templates/registration/registration_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/store/templates/store.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/store/templates/store.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/store/templates/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/store/templates/template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/store/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/store/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/store/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/store/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookstore/store/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/store/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,22 +10,66 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="django_migrations: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+        <item name="store_book: table" type="3d80ac25:SqliteImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bookstore/bookstore/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2210">
+            <state relative-caret-position="2600">
               <caret line="130" selection-start-line="130" selection-end-line="130" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bookstore/store/apps.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="29" selection-start-column="29" selection-end-column="29" />
+            <state relative-caret-position="100">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -64,17 +77,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bookstore/creating_django_env">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
+            <state relative-caret-position="440">
               <caret line="22" column="65" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/bookstore/manage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="300">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
                 <element signature="e#22#31#0" expanded="true" />
               </folding>
@@ -98,10 +111,10 @@
     <option name="directoryName" value="tjCycpZb" />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1261" />
-    <option name="y" value="1348" />
-    <option name="width" value="1430" />
-    <option name="height" value="817" />
+    <option name="x" value="240" />
+    <option name="y" value="130" />
+    <option name="width" value="1440" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -143,7 +156,7 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Creating_Bookstore" />
+    <property name="last_opened_file_path" value="D:/Documents/Mongodb_Tutorial" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -174,16 +187,19 @@
       <workItem from="1557036185452" duration="662000" />
       <workItem from="1557036864681" duration="132000" />
       <workItem from="1557037020788" duration="939000" />
+      <workItem from="1561848033839" duration="797000" />
+      <workItem from="1561947118517" duration="21000" />
+      <workItem from="1561947157759" duration="162000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2456000" />
+    <option name="totallyTimeSpent" value="3436000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="897" y="1107" width="1920" height="1007" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13767342" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13752665" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -198,9 +214,9 @@
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.3295063" />
       <window_info anchor="bottom" id="Graph Database Console" order="9" />
       <window_info anchor="bottom" id="GraphQL" order="10" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.25717565" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2567714" />
       <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.3283582" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" weight="0.32827735" />
       <window_info anchor="bottom" id="Statistic" order="14" />
       <window_info anchor="bottom" id="Database Changes" order="15" />
       <window_info anchor="bottom" id="Version Control" order="16" />
@@ -216,7 +232,7 @@
       <window_info anchor="right" id="Json Parser" order="7" />
       <window_info anchor="right" id="make" order="8" />
       <window_info anchor="right" id="SciView" order="9" />
-      <window_info anchor="right" id="Database" order="10" />
+      <window_info anchor="right" id="Database" order="10" weight="0.32995737" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -226,34 +242,34 @@
     <entry file="file://$PROJECT_DIR$/bookstore/store/templates/registration/activation_email.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/bookstore/creating_django_env">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="65" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bookstore/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#22#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bookstore/bookstore/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2210">
+        <state relative-caret-position="2600">
           <caret line="130" selection-start-line="130" selection-end-line="130" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bookstore/store/apps.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" selection-start-column="29" selection-end-column="29" />
+        <state relative-caret-position="100">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore/creating_django_env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="22" column="65" selection-start-line="22" selection-start-column="65" selection-end-line="22" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookstore/manage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#22#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
