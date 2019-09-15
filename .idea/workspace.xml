@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3e99655-2390-4dfb-b7ff-09ab956e6e2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Creating_Bookstore.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Creating_Bookstore.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/ozzycodes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/9a55746a-e3fe-4214-aaaf-8ecb2ebd5c0a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/9a55746a-e3fe-4214-aaaf-8ecb2ebd5c0a.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore/bookstore/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/bookstore/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore/bookstore/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/bookstore/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore/store/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/store/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bookstore/store/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookstore/store/urls.py" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +63,9 @@
     </expand>
     <select />
   </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -64,11 +73,16 @@
     <option name="directoryName" value="tjCycpZb" />
   </component>
   <component name="ProjectId" id="1OmnywgisHeRggB4ltyS3A7HxV6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/bookstore/bookstore/settings.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/bookstore" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -77,7 +91,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -121,10 +135,11 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="bookstore.settings" />
       </envs>
-      <option name="SDK_HOME" value="S:\VITAL_WebApp\vitalvenv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bookstore" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="launchJavascriptDebuger" value="false" />
@@ -158,6 +173,7 @@
       <workItem from="1561947157759" duration="162000" />
       <workItem from="1564591898911" duration="1942000" />
       <workItem from="1566876683464" duration="1929000" />
+      <workItem from="1568581183007" duration="618000" />
     </task>
     <servers />
   </component>
@@ -176,5 +192,23 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2475" y="201" width="873" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" />
+    <state x="2475" y="201" width="873" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.1080/1920.1080/1920.1080" />
+    <state x="2658" y="304" key="FileChooserDialogImpl" />
+    <state x="2658" y="304" key="FileChooserDialogImpl/1920.1080/1920.1080/1920.1080" />
+    <state width="1874" height="284" key="GridCell.Tab.0.bottom" />
+    <state width="1874" height="284" key="GridCell.Tab.0.bottom/1920.1080/1920.1080/1920.1080" />
+    <state width="1874" height="284" key="GridCell.Tab.0.center" />
+    <state width="1874" height="284" key="GridCell.Tab.0.center/1920.1080/1920.1080/1920.1080" />
+    <state width="1874" height="284" key="GridCell.Tab.0.left" />
+    <state width="1874" height="284" key="GridCell.Tab.0.left/1920.1080/1920.1080/1920.1080" />
+    <state width="1874" height="284" key="GridCell.Tab.0.right" />
+    <state width="1874" height="284" key="GridCell.Tab.0.right/1920.1080/1920.1080/1920.1080" />
+    <state x="2463" y="286" width="824" height="515" key="IDE.errors.dialog" />
+    <state x="2463" y="286" width="824" height="515" key="IDE.errors.dialog/1920.1080/1920.1080/1920.1080" />
+    <state x="2353" y="175" width="1054" height="737" key="SettingsEditor" />
+    <state x="2353" y="175" width="1054" height="737" key="SettingsEditor/1920.1080/1920.1080/1920.1080" />
   </component>
 </project>
